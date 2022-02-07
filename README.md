@@ -7,7 +7,7 @@ Quick links to repos
 |||
 |:-:|:-:|
 | Discussion board | [Compiler-s22/Discussion](https://github.com/compiler-f21/discussion) |
-| Website | [Compiler-s22.github.io](https://compiler-f21.github.io) |
+| Website | [Compiler-s22.github.io](https://compiler-s22.github.io) |
 | Website for in-servie student |  |
 | Private Resources | [Compiler-s22/private](https://github.com/compiler-f21/private) |
 
